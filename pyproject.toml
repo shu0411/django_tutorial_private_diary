@@ -9,6 +9,6 @@ dependencies = [
     "django-allauth>=65.18.0",
     "django-bootstrap5>=26.2",
     "django-ses>=4.7.2",
-    "psycopg2>=2.9.12",
+    "psycopg2-binary>=2.9.12",
     "selenium>=4.46.0",
 ]
